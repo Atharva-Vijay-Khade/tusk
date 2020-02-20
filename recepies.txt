@@ -6,4 +6,7 @@ baht
 varan
 poli
 
+shrikhanda
+bittya
+
 thank you
